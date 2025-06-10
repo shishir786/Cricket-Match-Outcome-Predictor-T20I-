@@ -79,16 +79,13 @@ pip install -r requirements.txt
 ```bash
 jupyter notebook notebooks/02_TrainModel.ipynb
 ```
-🔮 Future Improvements
-Integrate live weather API for real-time predictions
+## 🔮 Future Improvements
+- Integrate live weather API for real-time predictions
+- Use player-wise form and synergy (via embeddings)
+- Build a web app using Streamlit or Flask
 
-Use player-wise form and synergy (via embeddings)
 
-Build a web app using Streamlit or Flask
-
-🧑‍💻 Author
-Name: Your Full Name Here
-
-Email: your@email.com
-
-Submitted for: SMC Labs BD Summer’25 Internship Case Study
+## 🧑‍💻 Author
+- Name: Md. Abdullah Shishir
+- Email: abdullahshishir786@email.com
+- Submitted for: SMC Labs BD Summer’25 Internship Case Study

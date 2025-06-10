@@ -63,7 +63,7 @@ This project builds a machine learning model to predict the **outcome of T20 Int
 |----------------------------------|---------------------------------------------------|
 | `data/processed_matches.csv`     | Cleaned and feature-engineered dataset            |
 | `model/xgb_match_predictor.joblib` | Trained model for prediction                    |
-| `notebooks/02_TrainModel.ipynb`  | Full notebook: EDA + training + evaluation        |
+| `02_TrainModel.ipynb`  | Full notebook: EDA + training + evaluation        |
 | `requirements.txt`               | All dependencies used in the project              |
 | `README.md`                      | This file                                         |
 
